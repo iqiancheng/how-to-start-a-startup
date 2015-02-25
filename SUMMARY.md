@@ -1,2 +1,23 @@
-#Table Of Content
+#Table of Content
+
+* [Lecture 1: How to Start a Startup by *Sam Altman*](Lecture01.md)
+* [Lecture 2: Ideas, Products, Teams and Execution Part II by *Sam Altman*](Lecture02.md)
+* [Lecture 3: Counterintuitive Parts of Startups, and How to Have Ideas by *Paul Graham*](Lecture03.md)
+* [Lecture 4: Building Product, Talking to Users, and Growing by *Adora Cheung*](Lecture04.md)
+* [Lecture 5: Business Strategy and Monopoly Theory by *Peter Thiel*](Lecture05.md)
+* [Lecture 6: Growth by *Alex Schultz*](Lecture06.md)
+* [Lecture 7: How to Build Products Users Love, Part I by *Kevin Hale*](Lecture07.md)
+* [Lecture 8: Doing Things That Don't Scale, PR, and How to Get Started by *Walker Williams*](Lecture08.md)
+* [Lecture 9: How to Raise Money by *Marc Andreessen*](Lecture09.md)
+* [Lecture 10: Company Culture and Building a Team, Part I by *Alfred Lin*](Lecture10.md)
+* [Lecture 11: Company Culture and Building a Team, Part II by *Patrick Collison*](Lecture11.md)
+* [Lecture 12: Sales and Marketing by *Aaron*](Lecture12.md)
+* [Lecture 13: How To Be A Great Founder by *Reid Hoffman*](Lecture13.md)
+* [Lecture 14: How to Operate by *Keith Rabois*](Lecture14.md)
+* [Lecture 15: How to Manage by *B Horowitz*](Lecture15.md)
+* [Lecture 16: How to Run a User Interview by *Emmett Shear*](Lecture16.md)
+* [Lecture 17: How to Build Products Users Love, Part II by *Hosain Rahman*](Lecture17.md)
+* [Lecture 18: Mechanics--Legal, Finance, HR, etc. by *Kirsty Nathoo*](Lecture18.md)
+* [Lecture 19: Sales and Marketing, How to Pitch, and Investor Meeting Roleplaying by *Tyler Bosmeny*](Lecture19.md)
+* [Lecture 20: Closing Thoughts and Later-Stage Advice by *Sam Altman*](Lecture20.md)
 
