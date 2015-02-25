@@ -11,7 +11,7 @@ A YC and Stanford Course =
 ###Description
 Sam Altman and the folks from Y Combinator offer up an amazing course in "How To Start A Startup" at Stanford. Course includes lectures from: Sam Altman, Dustin Moskovitz, Paul Graham, Adora Cheung, Peter Thiel, Alex Schultz, Kevin Hale, Marc Andreessen, Ron Conway, Ben Silbermann, Alfred Lin, Patrick and John Collison, Aaron Levie, Reid Hoffman, Keith Rabois, Ben Horowitz, Marissa Mayer, Hosian Rahman, Kirsty Nathoo, Carolynn Levy, and more.
 
-The trasncript was taken from [geius.com](http://genius.com/albums/Sam-altman/How-to-start-a-startup-cs183b).[^1]
+The trasncript was taken from [geius.com](http://genius.com/albums/Sam-altman/How-to-start-a-startup-cs183b). (I create this book on Gitbook for those who want read the transcript on various devices.)
 
 ###A letter from Sam Altman, President at YCombinator about the course:
 
@@ -51,5 +51,3 @@ Talks like these have really helped Y Combinator founders create their companies
 * [Lecture 19: Sales and Marketing, How to Pitch, and Investor Meeting Roleplaying by *Tyler Bosmeny*](Lecture19.md)
 * [Lecture 20: Closing Thoughts and Later-Stage Advice by *Sam Altman*](Lecture20.md)
 
-
-[^1] I create this book on Gitbook for those who want read the transcript in various ebook readers.
