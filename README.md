@@ -50,3 +50,6 @@ Talks like these have really helped Y Combinator founders create their companies
 * [Lecture 18: Mechanics--Legal, Finance, HR, etc. by *Kirsty Nathoo*](Lecture18.md)
 * [Lecture 19: Sales and Marketing, How to Pitch, and Investor Meeting Roleplaying by *Tyler Bosmeny*](Lecture19.md)
 * [Lecture 20: Closing Thoughts and Later-Stage Advice by *Sam Altman*](Lecture20.md)
+
+
+I create this book on Gitbook for those who want read the transcript in various ebook readers.
