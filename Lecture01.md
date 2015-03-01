@@ -127,6 +127,8 @@ So get users manually and remember that the goal is to get a small group of them
 
 You want to build an engine in the company that transforms feedback from users into product decisions. Then get it back in from of the users and repeat. Ask them what the like and don't like, and watch them use it. Ask them what they'd pay for. Ask them if they'd be really bummed if your company went away. Ask them what would make them recommend the product to their friends, and ask them if they'd recommended it to any yet.
 
+![](l1f2.png)
+
 You should make this feedback loop as tight as possible. If your product gets 10 percent better every week, that compounds really quickly. One of the advantages of software startups is just how short you can make the feedback loop. It can be measured in hours, and the best companies usually have the tightest feedback loop. You should try to keep this going for all of your company's life, but its really important in the early days.
 
 The good news is that all this is doable. Its hard, it takes a lot of effort, but there's no magic. The plan is at least is straightforward, and you will eventually get to a great product.
