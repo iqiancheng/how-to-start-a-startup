@@ -132,6 +132,8 @@ The way to have a company that executes well is you have to execute well yoursel
 
 A big part of execution is just putting in the effort, but there is a lot you can learn about how to be good at it. And so we’re going to have three classes that just talk about this.
 
+![](l2f3.png)
+
 The CEO, people ask me all the time about the jobs of the CEO. There are probably more than five, here are five that come up a lot in the early days. The first four everyone thinks of as CEO jobs: set the vision, raise money, evangelize the mission to people you’re trying to recruit, executives, partners, press, everybody, hire and manage the team. But the fifth one is setting the execution bar and this is not the one that most founders get excited about or envision themselves doing but I think it is actually one of the critical CEO roles and no one but the CEO can do this.
 
 Execution gets divided into two key questions. One, can you figure out what to do and two, can you get it done. So I want to talk about two parts of getting it done, assuming that you’ve already figured out what to do. And those are focus and intensity. So focus is critical. One of my favorite questions to ask founders about what they’re spending their time and their money on. This reveals almost everything about what founders think is important.
