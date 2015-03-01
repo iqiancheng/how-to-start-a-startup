@@ -156,6 +156,8 @@ As I mentioned already, be in the same space. I think this is pretty much a nons
 
 The other piece besides focus for execution is intensity. Startups only work at a fairly intense level. A friend of mine says the secret to start up success is extreme focus and extreme dedication. You can have a startup and one other thing, you can have a family, but you probably can't have many other things. Startups are not the best choice for work life balance and that's sort of just the sad reality. There's a lot of great things about a startup, but this is not one of them. Startups are all-consuming in a way that is generally difficult to explain. You basically need to be willing to outwork your competitors.
 
+![](l2f4.png)
+
 The good news here is that a small amount of extra work on the right thing makes a huge difference. One example that I like to give is thinking about the viral coefficient for a consumer web product. How many new users each existing user brings in. If it's .99 the company will eventually flatline and die. And if it's 1.01 you'll be in this happy place of exponential growth forever.
 
 So this is one concrete example of where a tiny extra bit of work is the difference between success and failure. When we talk to successful founders they tell stories like this all the time. Just outworking their competitors by a little bit was what made them successful.
