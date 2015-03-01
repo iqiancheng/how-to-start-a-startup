@@ -101,7 +101,7 @@ Your job is to build something that users love. Very few companies that go on to
 
 Something that we say at YC a lot is that its better to build something that a small number of users love, then a large number of users like. Of course, it would be best to build something that a small number of users love, but opportunities to do that for v1 are rare, and they're usually not available to startups. So in practice you end up choosing the gray of the orange. You make something that a lot of users like a little bit, or something that a small number of users love a lot. This is a very important piece of advice. Build something that a small number of users love. It is much easier to expand from something that small number of people love, to something that a lot of people love, then from something that a lot of people like to a lot of people love. If you get right, you can get a lot of other things wrong. If you don't get this right, you can get everything else right, and you'll probably still fail. So when you start on the startup, this is the only thing you need to care about until its working.
 
-
+![](l1f1.png)
 
 [Audience member]: Can you go over that slide again?
 
