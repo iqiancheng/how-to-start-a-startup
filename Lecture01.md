@@ -14,6 +14,8 @@ All of the advice in this class is geared towards people starting a business whe
 
 So the four areas: You need a great idea, a great product, a great team, and great execution. These overlap somewhat, but I'm going to have to talk about them somewhat individually to make it make sense.
 
+![](l1f0.png)
+
 You may still fail. The outcome is something like idea x product x execution x team x luck, where luck is a random number between zero and ten thousand. Literally that much. But if you do really well in the four areas you can control, you have a good chance at at least some amount of success.
 
 One of the exciting things about startups is that they are a surprisingly even playing field. Young and inexperienced, you can do this. Old and experienced, you can do this, too. And one of the things that I particularly like about startups is that some of the things that are bad in other work situations, like being poor and unknown, are actually huge assets when it comes to starting a startup.
