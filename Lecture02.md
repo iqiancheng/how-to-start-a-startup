@@ -78,6 +78,8 @@ You also want people who are maniacally determined and that is slightly differen
 
 There is a famous test from Paul Graham called the animal test. The idea here is that you should be able to describe any employee as an animal at what they do. I don't think that translates out of English very well but you need unstoppable people. You want people that are just going to get it done. Founders who usually end up being very happy with their early hires usually end up describing these people as the very best in the world at what they do.
 
+![](l2f2.png)
+
 Mark Zuckerberg once said that he tries to hire people that A. he'd be comfortable hanging with socially and B. he’d be comfortable reporting to if the roles were reversed. This strikes me as a very good framework. You don't have to be friends with everybody, but you should at least enjoy working with them. And if you don't have that, you should at least deeply respect them. But again, if you don't want to spend a lot of time around people you should trust your instincts about that.
 
 While I'm on this topic of hiring, I want to talk about employee equity. Founders screw this up all the time. I think as a rough estimate, you should aim to give about ten percent of the company to the first ten employees.
