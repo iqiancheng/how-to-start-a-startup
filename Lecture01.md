@@ -76,7 +76,20 @@ So as I mentioned, one of the great things about being a student is that you've 
 
 The other is meeting potential cofounders. You have no idea how good of an environment you're in right now, for meeting people you can start a company with down the road. And the one thing that we always tell college students is that more important then any particular startup is getting to know potential cofounders.
 
-So I want to finish this section of my talk with a quote from 50 Cent. This is from when he was asked about Vitamin Water. I won't read it, it's up there, but it's about the importance of thinking about what customers want, and thinking about the demands of the market. Most people don't do this—most students especially don't do this. If you can just do this one thing, if you can just learn to think about the market first, you'll have a big leg up on most people starting startups. And this is probably the thing we see wrong with Y Combinator apps most frequently, is that people have not thought about the market first, and what people want first.
+So I want to finish this section of my talk with a quote from 50 Cent. This is from when he was asked about Vitamin Water. 
+
+> *on the screen*:
+
+> Most people think first of **what they want to express or make, then find the audience for their idea.**
+
+> You must work the opposite angle, thinking first of the public. 
+
+> you need to keep **you focus** on their **changing needs**,  the **trends** that are washing through them. Beginning with their **demand**, you create the **appropriate supply**.
+
+> -- 50 Cent[^1]
+
+
+I won't read it, it's up there, but it's about the importance of thinking about what customers want, and thinking about the demands of the market. Most people don't do this—most students especially don't do this. If you can just do this one thing, if you can just learn to think about the market first, you'll have a big leg up on most people starting startups. And this is probably the thing we see wrong with Y Combinator apps most frequently, is that people have not thought about the market first, and what people want first.
 
 So for the next section, I'm going to talk about building a great product. And here, again, I'm going to use a very broad definition of product. It includes customer support, the copy you write explaining the product, anything involved in your customer's interaction in what you built for them.
 
@@ -219,3 +232,5 @@ And at some point we had to have the hard conversation of okay what does it mean
 I'll go ahead and stop there. I'll put some recommended books up here.
 
 Thank you.
+
+[^1]: [How Much Did 50 Cent Make Off Vitamin Water?](http://www.celebritynetworth.com/articles/entertainment-articles/how-much-did-50-cent-make-off-vitamin-water/)
