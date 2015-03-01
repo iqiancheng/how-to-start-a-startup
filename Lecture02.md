@@ -34,6 +34,8 @@ So as you're thinking about cofounders and people that could be good, there's a 
 
 So, you're looking for cofounders that need to be unflappable, tough, they know what to do in every situation. They act quickly, they're decisive, they're creative, they're ready for anything, and it turns out that there's a model for this in pop culture. And it sounds very dumb, but it's at least very memorable and we've told every class of YC this for a long time and I think it helps them.
 
+![](l2f1.png)
+
 And that model is James Bond. And again, this sounds crazy, but it will at least stick in your memory and you need someone that behaves like James Bond more than you need someone that is an expert in some particular domain.
 
 As I mentioned earlier, you really want to know your cofounders for awhile, ideally years. This is especially true for early hires as well, but incidentally, more people get this right for early hires than they do for cofounders. So, take advantage of school. In addition to relentlessly resourceful, you want a tough and a calm cofounder. There are obvious things like smart, but everyone knows you want a smart cofounder, they don't prioritize things like tough and calm enough, especially if you feel like you yourself aren't, you need a cofounder who is. If you aren't technical, and even if most of the people in this room feel like they are, you want a technical cofounder. There's this weird thing going on in startups right now where it's become popular to say, You know what, we don't need a technical cofounders, we're gonna hire people, we're just gonna be great managers.
