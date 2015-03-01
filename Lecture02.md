@@ -194,6 +194,8 @@ Another thing that you’ll notice if you have momentum sag, is that everyone st
 
 To use a Facebook example again, when Facebook’s growth slowed in 2008, mark instituted a “growth group.” They worked on very small things to make Facebook grow faster. All of these by themselves seemed really small, but they got the curve of Facebook back up. It quickly became the most prestigious group there. Mark has said that it’s been one of Facebook’s best innovations. According to friends of mine that worked at Facebook at the time, it really turned around the dynamic of the company. And it went from this thing where everyone was feeling bad, and momentum was gone, back to a place that was winning.
 
+![](l2f7.png)
+
 So a good way to keep momentum is to establish an operating rhythm at the company early. Where you ship product and launch new features on a regular basis. Where you’re reviewing metrics every week with the entire company. This is actually one of the best things your board can do for you. Boards add value to business strategy only rarely. But very frequently you can use them as a forcing function to get the company to care about metrics and milestones.
 
 One thing that often disrupts momentum and really shouldn’t is competitors. Competitors making noise in the press I think probably crushes a company’s momentum more often than any other external factor.
