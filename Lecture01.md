@@ -157,6 +157,8 @@ Why is it so stressful? So a couple reasons. One is you've got a lot of responsi
 
 So a scene from The Social Network. This is us partying and working at the same time—somebody's spraying champagne everywhere—The Social Network spends a lot of time painting these scenes. Mark's not in the scene, the other thing they spend all their time on is painting him out to be a huge jerk.
 
+![](l1f3.png)
+
 This is an actual scene from Palo Alto, he spent a lot of time at this desk, head down and focused. Mark was still kinda a jerk sometimes, but in this more like fun lovable way, and not in a sociopathic, scorned lover way. So this is just him signaling his intention to just be focused and keep working, not be social.
 
 So then there's the scene demonstrating the insight moment, it's kind of like out of A Beautiful Mind, they literally stole that scene. So they like to paint that scene and jump to these moments from other moments, with partying in between. But really we were just at that table the whole time. So if you compare this photo, Mark is in the exact same position but he's wearing different clothes, so this is definitely a different day. That's what it's actually like in person. I just covered this bullet; this is the Economist article I was talking about a second ago.
