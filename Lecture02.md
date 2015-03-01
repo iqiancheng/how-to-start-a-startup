@@ -2,7 +2,7 @@
 
 ##Sam Altman
 
-![Slides](Lecture2_Sam_Altman_Deck.pdf)
+[Slides](Lecture2_Sam_Altman_Deck.pdf)
 
 Before I jump into today's lecture, I wanted to answer a few questions people had emailed me about the last lecture that we didn't have time for. So, if you have a question about what we covered last time, I am welcome to answer it now, starting with you.
 
