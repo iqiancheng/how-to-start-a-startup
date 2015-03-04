@@ -127,7 +127,11 @@ The second is program mechanics. The most common thing I have seen is $10 for $1
 
 ![](l4f13.png)
 
-And lastly is paid growth. Some examples of paid growth are this right here. And these are some of the most obvious ones and I'm sure that you guys can think of more. Paid growth is you happen to have money you can spend - you may have credit cards or whatever - but you can spend something to get users. So the correct way to think about paid growth is that you are going to risk putting money out there so that are you going to get a return. The simple way to think about it - is your CLV, your customer's lifetime - is it more than your CAC. And your CAC is an abbreviation for customer acquisition costs. So an example is - say you run a bunch of ads over 12 months and the customer is worth $300 to you. Each one of these ads, when you click on it the CPC costs different types of money, and then when they click on your ad they have to come to the site and sign up or buy something.
+And lastly is paid growth. Some examples of paid growth are this right here. And these are some of the most obvious ones and I'm sure that you guys can think of more. Paid growth is you happen to have money you can spend - you may have credit cards or whatever - but you can spend something to get users. So the correct way to think about paid growth is that you are going to risk putting money out there so that are you going to get a return. 
+
+![](l4f14.png)
+
+The simple way to think about it - is your CLV, your customer's lifetime - is it more than your CAC. And your CAC is an abbreviation for customer acquisition costs. So an example is - say you run a bunch of ads over 12 months and the customer is worth $300 to you. Each one of these ads, when you click on it the CPC costs different types of money, and then when they click on your ad they have to come to the site and sign up or buy something.
 
 And the conversion rates are different for all of these ads. The CAC is calculated by the CPC divided by the conversion. So you see that there are different acquisition costs for different types of ads. To determine whether or not that is a good or bad ad all you have to do is CLV minus the CAC. If it is more than zero you are earning a profit. So you see that despite the CLV remaining the same and the conversions being higher or lower sometimes some ads that might seem good actually don't seem so good at the end of the day.
 
