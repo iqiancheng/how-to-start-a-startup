@@ -1,11 +1,12 @@
-#Table of Content
+# Summary
 
+* [Introduction](README.md)
 * [Lecture 1: How to Start a Startup by *Sam Altman*](Lecture01.md)
 * [Lecture 2: Ideas, Products, Teams and Execution Part II by *Sam Altman*](Lecture02.md)
 * [Lecture 3: Counterintuitive Parts of Startups, and How to Have Ideas by *Paul Graham*](Lecture03.md)
 * [Lecture 4: Building Product, Talking to Users, and Growing by *Adora Cheung*](Lecture04.md)
 * [Lecture 5: Business Strategy and Monopoly Theory by *Peter Thiel*](Lecture05.md)
-* [Lecture 6: Growth by *Alex Schultz*](Lecture06.md)
+* [Lecture 6: Growth by Alex Schultz](Lecture06.md)
 * [Lecture 7: How to Build Products Users Love, Part I by *Kevin Hale*](Lecture07.md)
 * [Lecture 8: Doing Things That Don't Scale, PR, and How to Get Started by *Walker Williams*](Lecture08.md)
 * [Lecture 9: How to Raise Money by *Marc Andreessen*](Lecture09.md)
