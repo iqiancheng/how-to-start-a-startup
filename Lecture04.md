@@ -89,6 +89,8 @@ So you have a product that you are ready to ship - some people at this point wil
 
 I hate to keep harping on it but these are things that I see today with founders and something that I went through as well. And I think that unless you are building something that requires tens of millions of dollars just to start up there is really no point in waiting around to launch the product.
 
+![](l4f8.png)
+
 So say you have something that you feel ready to get lots of users on. So what do you do at this point? I will go over various types of growth in the next slides, but the one thing to note here early on when it is just you, your cofounder, and a couple of other people building, you aren't creating a team just for growth. It is going to be one person and one person only. You really need to focus and you are going to be tempted to try five different strategies at one time.
 
 But really what you should do is take one channel and really execute on it for an entire week and just focus on that. And if that works continue executing on it until it caps out. If it doesn't work then just move on. By doing this you will feel more certain that the channel you were working on is wrong and your initial hypothesis is wrong than if you only spent a third of your time on it over the course of a few weeks. So learn one channel at a time.
