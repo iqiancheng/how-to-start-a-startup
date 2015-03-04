@@ -71,6 +71,8 @@ So say now this is a paid product. So when it is a paid product your mom is down
 
 This is another way of saying that you are going to get the best feedback if you just make someone pay for it. That's not to say that you should make people pay for it the first time out, but it is to say that if you are going to build a product that you are going to eventually need to pay for the software or for the hardware or whatever then get to the point where you can do that very fast. Because that is when you can get to the more meaty stuff of how you can get more paying users in the door.
 
+![](l4f6.png)
+
 You're getting a lot of feedback and what do you do before you officially launch the product? You always want to be building fast and you want to be optimizing for this stage of your growth. You might have 10 users at this point and there is no point in trying to build features for when you might have 10 million users. You want to optimize for the next stage of growth which will be 10 to 100 users. What are the features you really need for that and just go with that. One of the things I found when building a marketplace is that process is very important over time as you scale.
 
 You need to not try and automate everything and create software to have robots run everything. What you should do to really understand what you should build is manually do it yourself. An example of this is when we started taking on cleaning professionals on to our platform, we would ask them a bunch of questions over the phone and then in person would ask a bunch of questions as well. And then they would go to a test clean and then they would get onboarded to our platform if they were good enough. Doing all these questions for that many candidates we had a 3-5% acceptance rate.
