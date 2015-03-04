@@ -143,6 +143,8 @@ So when you look at these CLVs, which is suppose you get a customer that is wort
 
 So again, payback time is very important. Safe time to go with is three months. If you are very risk loving then maybe 12 months is better. Beyond 12 months is very much unsafe territory.
 
+![](l4f15.png)
+
 The art of pivoting - Homejoy in its current concept was literally the 13th idea we fully built out and tried to execute on and tried to get customers for. And so a lot of the questions I get are," How do you even get to that 13th idea, and how did you decide when to move on?" The best guidance that I can give on that is the kind of look at these three criteria, which is once you realize that you can't grow, and despite building out all of these great features and talking to all of these users none of them stick, or the economics of the business just don't make sense - then once you make that realization you just need to move on.
 
 I think the trickiest one is probably the growth one because there are so many stories out there where the founders stuck with the idea and then after three years all of a sudden it started growing. So the trick here is what you really should do is have a growth plan when you start out. What is an optimistic but realistic way to grow this business? it might look something like this. In week one you just want one user, in week two you want maybe two users and so forth. And you can keep doubling up and up.
