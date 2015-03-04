@@ -101,6 +101,8 @@ An example is that in the beginning at Homejoy we had no money so when we tried 
 
 And the key to all of this is creativity. Performance marketing, or marketing and growth in general can be very technical but, it is actually technical, and you have to be creative because if it was really easy and bland then everyone would be growing right now. So you always have to find that little thing that no one else is doing and do that to the extreme.
 
+![](l4f9.png)
+
 So there are three types of growth. Sticky, viral, and paid growth. Sticky growth is trying to get your existing users to come back and pay you more or use you more. Viral growth is when people talk about you. So you use a product, you really like it and you tell ten other friends, and they like it. That's viral growth. And the third is paid growth. If you happen to have money in the bank you're going to be able to use part of that money to buy growth.
 
 The central theme that I'm going to go through is sustainability. By sustainable growth I mean you are basically not a leaky bucket. The money you put in has a good return investment on it. So sticky growth is, like I said, trying to get your existing users to come back and buy stuff. The only thing that really matters here is that you deliver a good experience. Right? If you deliver a good experience people are going to want to keep using you. If you deliver an addictive experience people are going to want to keep using you. And the way to measure this and to really look at this and how you are doing over time with whether you are providing good sticky growth is to look at the CLV and retention cohort analysis.
