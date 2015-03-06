@@ -45,7 +45,11 @@ So that's sort of a fictitiously narrow market. There is sort of a Hollywood ver
 
 ![](l5f8.png)
 
-So you always have this question about is the intersection real? Does it make sense? Does it have value? And of course there are startup versions of this, and in the really bad versions you just take a whole series of the buzzwords: sharing, mobile, social apps, you combine them and give some kind of narrative and whether or not that's a real business or not, it is generally a bad sign. It's almost this pattern recognition when you have this rhetoric of these sort of intersections, it generally does not work. The something of somewhere is really mostly just the nothing of nowhere, it's like the Stanford of North Dakota, one of a kind, but it's not Stanford.
+So you always have this question about is the intersection real? Does it make sense? Does it have value? 
+
+![](l5f9.png)
+
+And of course there are startup versions of this, and in the really bad versions you just take a whole series of the buzzwords: sharing, mobile, social apps, you combine them and give some kind of narrative and whether or not that's a real business or not, it is generally a bad sign. It's almost this pattern recognition when you have this rhetoric of these sort of intersections, it generally does not work. The something of somewhere is really mostly just the nothing of nowhere, it's like the Stanford of North Dakota, one of a kind, but it's not Stanford.
 
 Let's look at the opposite, the opposite lie, is if you are let's say the search company that’s down the street from here and has about a happy sixty-six percent market share and is completely dominant in the search market. Google almost never describes itself as a search engine these days and instead it describes itself in all these different ways. So it sometimes says it’s an advertising company. So if it was search you would say, well it's like it has this huge market share that's really crazy, so it's like an incredible monopoly, it's a much bigger and much more robust monopoly than Microsoft ever had in the nineties, maybe that's why it’s making so much money. But if you say it's an advertising market, you could say well, search advertising is seventeen billion and that's part of online advertising, which is much bigger and then, you know, all US advertising is bigger, and then by the time you get to global advertising, that's close to five hundred billion and so you're talking about three and a half percent, so a tiny part of this much larger market.
 
