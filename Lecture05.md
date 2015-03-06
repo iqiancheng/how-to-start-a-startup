@@ -3,6 +3,14 @@
 
 Sam: Alright, good afternoon, today’s speaker is Peter Thiel, Peter was the founder of PayPal, Palantir, and Founders Fund and has invested in most of the tech companies in Silicon Valley. He's going to talk about strategy and competition. Thank you for coming, Peter.
 
+> ###OUTLINE
+> - capturing value
+> - lies people tell
+> - how to build a monopoly
+> - last mover advantage
+> - history of innovation
+> - psychology of competition
+
 Peter: Awesome, thanks Sam for inviting me, thanks for having me.
 
 I sort of have a single idée fixe that I'm completely obsessed with on the business side which is that if you're starting a company, if you’re the founder, entrepreneur, starting a company you always want to aim for monopoly and you want to always avoid competition. And so hence competition is for losers, something we’ll be talking about today.
