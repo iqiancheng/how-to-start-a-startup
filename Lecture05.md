@@ -3,6 +3,14 @@
 
 Sam: Alright, good afternoon, today’s speaker is Peter Thiel, Peter was the founder of PayPal, Palantir, and Founders Fund and has invested in most of the tech companies in Silicon Valley. He's going to talk about strategy and competition. Thank you for coming, Peter.
 
+> ###OUTLINE
+> - capturing value
+> - lies people tell
+> - how to build a monopoly
+> - last mover advantage
+> - history of innovation
+> - psychology of competition
+
 Peter: Awesome, thanks Sam for inviting me, thanks for having me.
 
 I sort of have a single idée fixe that I'm completely obsessed with on the business side which is that if you're starting a company, if you’re the founder, entrepreneur, starting a company you always want to aim for monopoly and you want to always avoid competition. And so hence competition is for losers, something we’ll be talking about today.
@@ -62,6 +70,8 @@ But if you say it's an advertising market, you could say well, search advertisin
 ![](l5f12.png)
 
 Or if you don't want to be an advertising company, you could always say you’re a technology company. The technology market is something like a one trillion dollar market and the narrative that you tell about Google and the technology market is, well we're competing with all the car companies with our self-driving cars, we’re competing with Apple on TVs and iPhones, we’re competing with Facebook, we’re competing with Microsoft on office products, we’re competing with Amazon on cloud services and so we're in this giant technology market, where there's competition in every direction you look and no we’re not the monopoly the government's looking for and we should not get regulated in any way whatsoever. So I think one has to always be super aware that there are these very powerful incentives to distort the nature of these markets, one way or the other.
+
+![](l5f13.png)
 
 The evidence of narrow markets in the tech industry is if you basically just, if you look at sort of the big tech companies, Apple, Google, Microsoft, Amazon, they have just been building up cash for year after year and you have these incredibly high profit margins, and I would say that the that one of the reasons the tech industry in the US has been so successful financially is because it's prone to creating all these monopoly-like businesses and it's reflected by the fact that these companies just accumulate so much cash they don't even know what to do with it beyond a certain point.
 
