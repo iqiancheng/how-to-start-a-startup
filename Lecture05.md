@@ -13,7 +13,7 @@ I'd like to start by saying something about the basic idea of when you start one
 
 So to create a valuable company you have to basically both create something of value and capture some fraction of the value of what you've created. 
 
-![](l5f1.png)
+![](l5f2.png)
 
 And sort of just to illustrate this as a contrast, if you compare the US airline industry with a company like Google on search, if you measure by the size of these industries you could say that airlines are still more important than search, just measured by revenue. [For airline carriers] there’s $195 billion in domestic revenues in 2012; Google had just north of $50 billion. And certainly on some intuitive level if you were given a choice and said, well would you want to get rid of all air travel, or do you want to give up search engines, the intuition would be that air travel is something that's more important than search. And this is of course just the domestic numbers.
 
