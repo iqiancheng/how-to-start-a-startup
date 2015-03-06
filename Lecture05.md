@@ -149,7 +149,7 @@ What I would suggest that we will leave you with is there are these different ra
 
 The software distortion that often happens is because people are making such vast fortunes in software, we infer that this is the most valuable thing in the world being done full stop. And so people at Twitter make billions of dollars, it must be that Twitter is worth far more than anything Einstein did. What that realization tends to obscure, is again that "X" and "Y" are independent variables and that there are these businesses where you capture a lot of X and others where you don't. So I do think the history of innovation has been this history where the microeconomics, the structure of these industries has mattered a tremendous amount and there is sort of this story where some people made vast fortunes because they worked in industries with the right structure and other people made nothing at all because they were in these very competitive things.
 
-
+![](l5f22.png)
 
 We shouldn't just rationalize that way. I think it's worth understanding this better. Then finally, let me come back to this sort of overarching theme for this talk, this competition is for losers idea, which is always a provocative way to title things because we always think of the losers as the people who are not good at competing. We think of losers as the people who are slow on the track team in high school or do a little less well on standardized tests, and don't get into the right schools. So we always think of losers as people who can't compete and I want us to really rethink and re-value this and consider whether it's possible the competition itself is off.
 
