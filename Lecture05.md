@@ -75,7 +75,7 @@ Or if you don't want to be an advertising company, you could always say you’re
 
 The evidence of narrow markets in the tech industry is if you basically just, if you look at sort of the big tech companies, Apple, Google, Microsoft, Amazon, they have just been building up cash for year after year and you have these incredibly high profit margins, and I would say that the that one of the reasons the tech industry in the US has been so successful financially is because it's prone to creating all these monopoly-like businesses and it's reflected by the fact that these companies just accumulate so much cash they don't even know what to do with it beyond a certain point.
 
-
+![](l5f14.png)
 
 Let me say a few things about how to build a monopoly, and I think one of the sort of very counterintuitive ideas that comes out of this monopoly thread is that you want to go after small markets. If you’re a startup, you want to get to monopoly. You’re starting a new company, you want to get to monopoly. Monopolies have a large share of the market, how do you get to a large share of the market? You start with a really small market and you take over the whole market and then over time you find ways to expand that market in concentric circles.
 
