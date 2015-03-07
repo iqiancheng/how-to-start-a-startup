@@ -91,6 +91,8 @@ So the last area is tactics. So let’s say you’ve found your niche market tha
 
 ‘Build it and they will come.’ That is something that is very much the mantra in the Valley, and I don’t believe it’s true; I believe you actually have to work. There’s a good article in the lecture page from interviewing Ben Silverman. We talked about how the growth of Pinterest was driven by marketing. I’m biased of course.
 
+![](l6f6.png)
+
 The first tactic I want to talk about is internationalization. Facebook internationalized too late. Sheryl said it broadly in public and I definitely agree with that.
 
 One of the biggest barriers to our long-term growth, and one of the biggest things we had to deal with, was all the countries where there were clones. Famously ? (23:55) had Fakebook.css in their HTML, and there were a ton of sites like that out there, whether it was ?, a clear clone, Mixie, Cyworld, Orkut; they were all these different social networks around the world that grew up when Facebook was focused around the U.S. Internationalizing was an important barrier we needed to knock down, and knocking down barriers is often important to think about for growth. Facebook started out as college-only, so every college that it was launched in was knocking down a barrier. When Facebook expanded beyond colleges to high schools, I wasn’t at the company, but that was a company-shaking moment where people questioned whether or not Facebook would survive,if the culture of the site could survive.
