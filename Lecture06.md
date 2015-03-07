@@ -133,7 +133,7 @@ Second way to look at virality, which I think is awesome, is by this guy Ed. Ed 
 
 So with virality, you get someone to contact import (35:12) let's say. Then the question is, how many of those people do you get to send imports? Then, to how many people? Then, how many click? How many sign up? And then how many of those import. So essentially you want people to sign up to your site to import their contacts. You want to then get them to send an invite to all of those contacts - ideally all of those contacts, not just some of them. Then you want a percentage of those to click and sign up. If you multiply all the percentages/numbers in every point in between the steps, this is essentially how you get to the point of ‘What is the K factor?’ 
 
-
+![](l6f9.png)
 
 For example, let’s says 100 people get an invite per person who imports, then of those, 10% click, and 50% sign up, and of those only 10 to 20% import, you’re going to be at 0.5 - 1.0 K factor, and you’re not going to be viral. A lot of things like Viddy were very good at pumping up stories. They got the factor over 1, which is perfectly doable. But if you’ve got something that doesn’t have high retention on the backend, it doesn’t really matter. You should look at your invite flow and say ‘okay, what is my equivalent to import, how many people per import are invites sent to, how many of those receive clicks, how many of those convert to my site, how many of those then import,’ in order to get an idea of you K factor. The real important thing is still to think about retention, not so much virality, and only do this after you have a large number of people retained on your product per person who signs up.
 
