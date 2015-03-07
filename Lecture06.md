@@ -37,7 +37,7 @@ So what you then do is look for all of your users who have been on your product 
 
 So the next question that people ask over and over again is, what does good retention look like? Sure! I can have 5% retention, but I’m guessing Facebook had better than that. That’s not going to be a successful business. I get really pissed off when people ask me that question, because I think you can figure it out. I love this story; this is like my one gratuitous story (link on powerpoint) that I’m throwing out here, so the rest of it may not be as gratuitous. 
 
-
+![](l6f2.png)
 
 But this is a picture that was published in Life Magazine in 1950 of one of the Trinity nuclear bomb tests. There’s a guy named Jeffrey Taylor. He was a British Physicist who ended up winning the Nobel Prize. He was able to figure out, from looking at this picture (picture on powerpoint) what the power of the U.S. atomic bomb was, and Russians were publishing similar pictures, just using dimensional reasoning. Dimensional reasoning was one of the best skills I learned during my time studying physics back in the UK.
 
